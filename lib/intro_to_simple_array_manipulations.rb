@@ -1,3 +1,4 @@
-array = []
-add_array = "stirng"
-array.push("stirng")
+pets_array = ["dog", "cat"]
+new_pet = "bird"
+
+.push("stirng")
