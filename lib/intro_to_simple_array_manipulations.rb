@@ -1,0 +1,3 @@
+array = []
+
+array.push(stirng)
