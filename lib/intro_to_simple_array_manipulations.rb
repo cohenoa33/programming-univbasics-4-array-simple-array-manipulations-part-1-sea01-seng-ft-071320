@@ -1,3 +1,3 @@
 array = []
 
-array.push(stirng)
+array.push("stirng")
